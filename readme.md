@@ -3,8 +3,6 @@
 
 ___
 > Follow [this instructions](https://github.com/mate-academy/layout_task-guideline#how-to-solve-the-layout-tasks-on-github)
-
-- There are no tests for this task so don't run `npm test`
 ___
 
 ## The task
